@@ -1,7 +1,5 @@
 # GitHub PR Copier
 
-Repositorio: `github-pr-copy`
-
 Extensión para copiar rápidamente un resumen de una Pull Request de GitHub al portapapeles.
 
 Con un clic, la extensión extrae el título de la PR, su URL y, cuando están disponibles, las estadísticas de cambios (`+additions` y `-deletions`). El contenido se copia en texto plano y en formato HTML para que pueda pegarse cómodamente en Teams, email, documentación o tickets.
