@@ -43,9 +43,20 @@ La extensión muestra uno de estos mensajes según el resultado:
 - `PR copiada al portapapeles`
 - `PR copiada como texto plano`
 
+## Instalación en Safari
+
+1. Descarga el archivo `.zip` de la app desde la última release.
+2. Descomprime el `.zip`.
+3. Mueve la app a la carpeta `Aplicaciones`.
+4. Abre la app.
+5. Pulsa el botón que muestra la app.
+6. Cuando termine ese paso, puedes cerrar la app.
+7. Abre Safari y ve a `Safari > Ajustes > Extensiones`.
+8. Activa la extensión.
+
 ## Instalación local en Chrome
 
-Si quieres cargar este repositorio manualmente en Chrome o en otro navegador Chromium:
+Si quieres cargar este repositorio manualmente en Chrome:
 
 1. Abre `chrome://extensions`.
 2. Activa `Modo de desarrollador`.
