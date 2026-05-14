@@ -6,8 +6,8 @@ Con un clic, la extensión extrae el título de la PR, su URL y, cuando están d
 
 ## Disponibilidad
 
-- Chrome Web Store: pendiente de publicación
-- Safari para macOS: [Latest release](https://github.com/pablocabto/GitHub-PR-Copier/releases/latest)
+- Chrome: [GitHub PR Copier - Chrome Web Store](https://chromewebstore.google.com/detail/bkjbaibflkgplhmglnhacgfgdgaagcei)
+- Safari: [Latest release](https://github.com/pablocabto/GitHub-PR-Copier/releases/latest)
 
 ## Qué hace
 
